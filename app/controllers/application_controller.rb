@@ -8,7 +8,4 @@ class ApplicationController < ActionController::Base
     session[:cart] ||= []
   end
 
-  def destroy
-    session.delete :cart
-  end
 end

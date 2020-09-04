@@ -11,8 +11,6 @@ require 'rails_helper'
 #   end
 # end
 
-=begin
 RSpec.describe ProductsHelper, type: :helper do
   pending "add some examples to (or delete) #{__FILE__}"
 end
-=end
